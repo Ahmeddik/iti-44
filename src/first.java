@@ -1,7 +1,8 @@
 public class A{
 	public static void main (String[] arg){
 		System.out.println("Helldjfhgkfgjllllllo");
-		ffffffffffffffff
+		System.out.println("ffffffffffffffff");
+		
 	}
 	
 	
